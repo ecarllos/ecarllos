@@ -51,4 +51,4 @@
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ecarllos/)
-📧 E-mail: ecarllos017@gmail.com
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ecarllos017@gmail.com)
