@@ -1,8 +1,5 @@
-<h1 align="center">Olá, eu sou o Eduardo Carlos 👋</h1>
+<h1 align="center">Carlos Eduardo</h1>
 
-<p align="center">
-  Desenvolvedor Full-Stack em formação, apaixonado por tecnologia e resolução de problemas com código.
-</p>
 
 ---
 
