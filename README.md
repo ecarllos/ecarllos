@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 Sobre mim
 
-- 🎯 Atualmente focado em me tornar um desenvolvedor **back-end com Node.js**.  
+- 🎯 Atualmente focado em me tornar um desenvolvedor **back-end em Java**.  
 - 💻 Experiência com automações em **Python** e desenvolvimento de interfaces com **HTML, CSS e JavaScript**.  
 - 🧠 Sempre em busca de aprender e aplicar novos conhecimentos.
 
